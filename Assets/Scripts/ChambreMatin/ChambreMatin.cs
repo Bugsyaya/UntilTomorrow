@@ -17,9 +17,9 @@ public class ChambreMatin : MonoBehaviour
 
 	}
 
-    void OnColliderEnter2D(Collider2D other)
+    void OnTriggerEnter2D(Collider2D other)
     {
-        fader.LoadScene("CusineSalonMatin");
+        fader.LoadScene("CuisineSalonMatin");
         Debug.Log("Trigger");
     }
 }
