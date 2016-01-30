@@ -5,6 +5,7 @@ public class Wendy : MonoBehaviour {
 
 	public GameObject wendy;
 
+
 	// Use this for initialization
 	void Start () {
 		wendy = new GameObject ();
@@ -12,7 +13,6 @@ public class Wendy : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetKeyDown("Horizontal"))
-			print("space key was pressed");
+		
 	}
 }
