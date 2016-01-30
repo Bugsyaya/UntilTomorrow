@@ -16,9 +16,7 @@ public class Bob : MonoBehaviour
 	// Update is called once per frame
 	void Update () {
 		if (Input.GetAxis("Horizontal") != 0){
-			float x = Input.GetAxis ("Horizontal") * speed * Time.deltaTime;
-			Vector3 vector = new Vector3 (x, 0, 0);
-			transform.Translate (vector);
+			transform.Translate (new Vector3 (Input.GetAxis ("Horizontal") * speed * Time.deltaTime, 0, 0));
 		}
 	}
 }
