@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 44c471edde808ea4d85e5eab3dea83a9
+timeCreated: 1454184649
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: the_Wendy_0
+    21300002: the_Wendy_1
+    21300004: the_Wendy_2
+    21300006: the_Wendy_3
+    21300008: the_Wendy_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: the_Wendy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 143
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: 122}
+        - {x: -25.5, y: 122}
+        - {x: -70.5, y: 49}
+        - {x: -28.5, y: 17}
+        - {x: 2.5, y: 6}
+        - {x: -39.5, y: -29}
+        - {x: -71.5, y: -75}
+        - {x: -71.5, y: -122}
+        - {x: -32.5, y: -122}
+        - {x: 61.5, y: -67}
+        - {x: 71.5, y: -46}
+        - {x: 71.5, y: 37}
+        - {x: 63.5, y: 98}
+    - name: the_Wendy_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 268
+        width: 143
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63.5, y: 97}
+        - {x: 43.5, y: 122}
+        - {x: -28.5, y: 122}
+        - {x: -71.5, y: 60}
+        - {x: -71.5, y: -121}
+        - {x: -66.5, y: -122}
+        - {x: -38.5, y: -122}
+        - {x: 63.5, y: -44}
+        - {x: 71.5, y: -35}
+        - {x: 71.5, y: 34}
+    - name: the_Wendy_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 268
+        width: 143
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71.5, y: 89}
+        - {x: 51.5, y: 122}
+        - {x: -38.5, y: 122}
+        - {x: -70.5, y: 68}
+        - {x: -40.5, y: 21}
+        - {x: -35.5, y: 22}
+        - {x: -33.5, y: 26}
+        - {x: 0.5, y: 4}
+        - {x: 9.5, y: 5}
+        - {x: -71.5, y: -83}
+        - {x: -71.5, y: -111}
+        - {x: -58.5, y: -122}
+        - {x: -44.5, y: -122}
+        - {x: -35.5, y: -116}
+        - {x: 66.5, y: -49}
+        - {x: 71.5, y: -39}
+    - name: the_Wendy_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 143
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71.5, y: 34}
+        - {x: 63.5, y: 97}
+        - {x: 47.5, y: 122}
+        - {x: -42.5, y: 122}
+        - {x: -71.5, y: 77}
+        - {x: -71.5, y: -122}
+        - {x: -44.5, y: -122}
+        - {x: -35.5, y: -116}
+        - {x: 63.5, y: -44}
+        - {x: 71.5, y: -35}
+    - name: the_Wendy_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 24
+        width: 143
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

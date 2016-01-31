@@ -47,16 +47,17 @@ public class Dialog : MonoBehaviour
         int dialogueLength = DialogueStrings.Length;
         int currentDialogueIndex = 0;
 
-        while (currentDialogueIndex < dialogueLength || !_isStringBeingRevealed)
+        while (currentDialogueIndex < dialogueLength)
         {
             if (!_isStringBeingRevealed)
             {
                 _isStringBeingRevealed = true;
-                StartCoroutine(DisplayString(DialogueStrings[currentDialogueIndex++]));
+                StartCoroutine(DisplayString(DialogueStrings[currentDialogueIndex]));
+				currentDialogueIndex++;
 
-                //ShowIcon();
+				//ShowIcon();
 
-                while (!Input.GetKeyDown(DialogueInput) || _isStringBeingRevealed)
+				while (!Input.GetKeyDown(DialogueInput) || _isStringBeingRevealed)
                 {
                     yield return 0;
                 }
@@ -67,6 +68,7 @@ public class Dialog : MonoBehaviour
                 if (currentDialogueIndex >= dialogueLength)
                 {
                     finished = true;
+					_textComponent.text = "";
                 }
             }
 

@@ -16,4 +16,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CuisineSalonNuit/CuisineSalonNuit.unity
   - enabled: 1
-    path: Assets/Scenes/SalleDeBain/SalleDeBain.unity
+    path: Assets/Scenes/SalleDeBainMatin/SalleDeBainMatin.unity
+  - enabled: 1
+    path: Assets/Scenes/SalleDeBainNuit/SalleDeBainNuit.unity

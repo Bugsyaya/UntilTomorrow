@@ -1,23 +1,29 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class ChambreNuit : MonoBehaviour {
+public class ChambreNuit : MonoBehaviour
+{
     public GameObject ui;
 
     private Fading fader;
 
 	// Use this for initialization
-	void Start () {
+	void Awake ()
+	{
         fader = ui.GetComponent<Fading>();
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
+	}	
 
-    void OnTriggerEnter(Collider other)
+    void OnTriggerEnter2D(Collider2D other)
     {
-        fader.LoadScene("CusineSalonMatin");
+		if (gameObject.name == "ToSalon") fader.LoadScene("CuisineSalonNuit");
     }
+
+	void OnTriggerStay2D(Collider2D other)
+	{
+		if (!Input.GetKeyDown(KeyCode.Return)) return;
+
+		Model.NewDay();
+		fader.LoadScene("ChambreMatin");
+		SoundScript.FadeOut();
+	}
 }
