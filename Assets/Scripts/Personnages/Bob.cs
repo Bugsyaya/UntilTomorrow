@@ -1,30 +1,37 @@
 ﻿using UnityEngine;
 using System.Collections;
 
- [RequireComponent(typeof(Rigidbody2D))]
+ [RequireComponent(typeof(Rigidbody2D)), RequireComponent(typeof(Animator))]
 public class Bob : MonoBehaviour 
 {
 	public GameObject bob;
 
-    private Rigidbody2D _body;
+    private Rigidbody2D body;
+	private Animator anim;
 
 	public int health = 100;
-	public int speed = 5;
+	public float speed = 5f;
+	public bool inputEnable = true;
 
-    void Awake ()
+	void Awake ()
     {
-        _body = GetComponent<Rigidbody2D>();
+        body = GetComponent<Rigidbody2D>();
+		anim = GetComponent<Animator>();
     }
-    // Use this for initialization
-
-    void Start () {
-		bob = new GameObject ();
-	}
 
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetAxis("Horizontal") != 0){
-			_body.MovePosition (_body.position + new Vector2 (Input.GetAxis ("Horizontal") * speed * Time.deltaTime, 0));
+		if (!inputEnable) return;
+
+		float move = Input.GetAxis("Horizontal");
+
+		if (move != 0){
+			body.MovePosition (body.position + new Vector2 (move * speed * Time.deltaTime, 0));
 		}
+
+		if (move < 0) transform.localScale = new Vector2(-1, 1);
+		else if(move > 0) transform.localScale = new Vector2(1, 1);
+		
+		anim.SetFloat("Speed", Mathf.Abs(move));
 	}
 }

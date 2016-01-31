@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: b96d81a9bfd88f648b77e3a2c03e1be2
+timeCreated: 1454229900
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SDB_Bob_loop_0
+    21300002: SDB_Bob_loop_1
+    21300004: SDB_Bob_loop_2
+    21300006: SDB_Bob_loop_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SDB_Bob_loop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 140
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 156}
+        - {x: -9, y: 156}
+        - {x: -22, y: 154}
+        - {x: -70, y: 113}
+        - {x: -70, y: 36}
+        - {x: -14, y: -158}
+        - {x: -6, y: -160}
+        - {x: 48, y: -160}
+        - {x: 62, y: -154}
+        - {x: 67, y: -120}
+        - {x: 67, y: 96}
+    - name: SDB_Bob_loop_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 704
+        width: 140
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 156}
+        - {x: -21, y: 153}
+        - {x: -70, y: 113}
+        - {x: -70, y: 46}
+        - {x: -30, y: -64}
+        - {x: -14, y: -158}
+        - {x: -11, y: -160}
+        - {x: 44, y: -160}
+        - {x: 67, y: -96}
+        - {x: 67, y: 102}
+        - {x: 25, y: 156}
+    - name: SDB_Bob_loop_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 704
+        width: 140
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 150}
+        - {x: 25, y: 156}
+        - {x: -13, y: 156}
+        - {x: -58, y: 103}
+        - {x: -67, y: 95}
+        - {x: -67, y: 42}
+        - {x: -18, y: -160}
+        - {x: 48, y: -160}
+        - {x: 62, y: -154}
+        - {x: 67, y: -115}
+        - {x: 67, y: 99}
+    - name: SDB_Bob_loop_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 140
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 156}
+        - {x: -21, y: 153}
+        - {x: -70, y: 113}
+        - {x: -70, y: 46}
+        - {x: -30, y: -64}
+        - {x: -14, y: -158}
+        - {x: -11, y: -160}
+        - {x: 44, y: -160}
+        - {x: 67, y: -96}
+        - {x: 67, y: 102}
+        - {x: 25, y: 156}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

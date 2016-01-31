@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: 157d69ef0afdaee48926aee5bb2be2ba
+timeCreated: 1454184320
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: marche_Bob_0
+    21300002: marche_Bob_1
+    21300004: marche_Bob_2
+    21300006: marche_Bob_3
+    21300008: marche_Bob_4
+    21300010: marche_Bob_5
+    21300012: marche_Bob_6
+    21300014: marche_Bob_7
+    21300016: marche_Bob_8
+    21300018: marche_Bob_9
+    21300020: marche_Bob_10
+    21300022: marche_Bob_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: marche_Bob_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 701
+        width: 120
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 160}
+        - {x: -48, y: -152}
+        - {x: -40, y: -160}
+        - {x: 33, y: -160}
+        - {x: 36, y: -159}
+        - {x: 36, y: 160}
+    - name: marche_Bob_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 701
+        width: 120
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: -142}
+        - {x: 18, y: -152}
+        - {x: 35, y: -157}
+        - {x: 35, y: 143}
+        - {x: 26, y: 156}
+        - {x: -16, y: 156}
+        - {x: -31, y: 143}
+        - {x: -42, y: 86}
+        - {x: -42, y: 60}
+        - {x: -40, y: 31}
+        - {x: -42, y: -18}
+        - {x: -42, y: -154}
+        - {x: -40, y: -160}
+        - {x: 12, y: -160}
+        - {x: 14, y: -155}
+        - {x: 7, y: -148}
+        - {x: 3, y: -148}
+    - name: marche_Bob_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 701
+        width: 120
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 88}
+        - {x: 54, y: 125}
+        - {x: 30, y: 156}
+        - {x: -51, y: 156}
+        - {x: -52, y: 139}
+        - {x: -52, y: -160}
+        - {x: 2, y: -160}
+        - {x: 4, y: -156}
+        - {x: 23, y: -160}
+        - {x: 56, y: -160}
+    - name: marche_Bob_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 701
+        width: 120
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: -156}
+        - {x: 60, y: -152}
+        - {x: 60, y: 11}
+        - {x: 52, y: 144}
+        - {x: 31, y: 156}
+        - {x: -20, y: 156}
+        - {x: -59, y: 47}
+        - {x: -59, y: -155}
+        - {x: -47, y: -160}
+        - {x: -9, y: -160}
+        - {x: -6, y: -152}
+        - {x: 8, y: -160}
+        - {x: 46, y: -160}
+    - name: marche_Bob_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 381
+        width: 120
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 158}
+        - {x: -40, y: 158}
+        - {x: -59, y: 40}
+        - {x: -59, y: -160}
+        - {x: 48, y: -160}
+        - {x: 54, y: -152}
+        - {x: 54, y: -145}
+    - name: marche_Bob_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 381
+        width: 120
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 158}
+        - {x: -54, y: 110}
+        - {x: -54, y: -149}
+        - {x: -51, y: -160}
+        - {x: 50, y: -160}
+        - {x: 50, y: 131}
+        - {x: 47, y: 158}
+    - name: marche_Bob_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 381
+        width: 120
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 160}
+        - {x: -32, y: 160}
+        - {x: -46, y: 129}
+        - {x: -46, y: -127}
+        - {x: -25, y: -160}
+        - {x: 34, y: -160}
+        - {x: 32, y: -72}
+        - {x: 37, y: -5}
+        - {x: 37, y: 157}
+    - name: marche_Bob_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 381
+        width: 120
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 159}
+        - {x: -46, y: -160}
+        - {x: 36, y: -160}
+        - {x: 36, y: 159}
+    - name: marche_Bob_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 120
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 159}
+        - {x: -55, y: 80}
+        - {x: -55, y: -145}
+        - {x: -53, y: -160}
+        - {x: 37, y: -160}
+        - {x: 37, y: 148}
+        - {x: 22, y: 159}
+    - name: marche_Bob_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 61
+        width: 120
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: -160}
+        - {x: 60, y: 86}
+        - {x: 53, y: 154}
+        - {x: 49, y: 155}
+        - {x: -9, y: 155}
+        - {x: -31, y: 148}
+        - {x: -60, y: 56}
+        - {x: -60, y: -44}
+        - {x: -46, y: -46}
+        - {x: -40, y: -40}
+        - {x: -60, y: -116}
+        - {x: -60, y: -160}
+        - {x: -13, y: -160}
+        - {x: -12, y: -159}
+        - {x: -10, y: -153}
+        - {x: 9, y: -160}
+    - name: marche_Bob_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 61
+        width: 120
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: -160}
+        - {x: 52, y: 58}
+        - {x: 46, y: 143}
+        - {x: 30, y: 156}
+        - {x: -6, y: 156}
+        - {x: -26, y: 147}
+        - {x: -57, y: 80}
+        - {x: -57, y: -160}
+        - {x: -14, y: -160}
+        - {x: -13, y: -156}
+        - {x: -17, y: -152}
+        - {x: 0, y: -160}
+    - name: marche_Bob_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 61
+        width: 120
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 157}
+        - {x: -58, y: 131}
+        - {x: -58, y: -152}
+        - {x: -57, y: -160}
+        - {x: 50, y: -160}
+        - {x: 50, y: 112}
+        - {x: 34, y: 157}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

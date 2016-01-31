@@ -1,0 +1,817 @@
+fileFormatVersion: 2
+guid: 9ccc3b2dda279fe4bb1cff294675df09
+timeCreated: 1454204677
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: the_Bob_0
+    21300002: the_Bob_1
+    21300004: the_Bob_2
+    21300006: the_Bob_3
+    21300008: the_Bob_4
+    21300010: the_Bob_5
+    21300012: the_Bob_6
+    21300014: the_Bob_7
+    21300016: the_Bob_8
+    21300018: the_Bob_9
+    21300020: the_Bob_10
+    21300022: the_Bob_11
+    21300024: the_Bob_12
+    21300026: the_Bob_13
+    21300028: the_Bob_14
+    21300030: the_Bob_15
+    21300032: the_Bob_16
+    21300034: the_Bob_17
+    21300036: the_Bob_18
+    21300038: the_Bob_19
+    21300040: the_Bob_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: the_Bob_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 144
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 147}
+        - {x: -48, y: 118}
+        - {x: -48, y: -51}
+        - {x: -31, y: -158}
+        - {x: 19, y: -158}
+        - {x: 19, y: 145}
+        - {x: 17, y: 147}
+    - name: the_Bob_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 704
+        width: 144
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 95}
+        - {x: 11, y: 92}
+        - {x: 12, y: 90}
+        - {x: 9, y: 92}
+        - {x: 5, y: 94}
+        - {x: 17, y: 101}
+        - {x: 23, y: 115}
+        - {x: 16, y: 136}
+        - {x: 1, y: 144}
+        - {x: -23, y: 144}
+        - {x: -47, y: 122}
+        - {x: -69, y: 36}
+        - {x: -69, y: 3}
+        - {x: -35, y: -153}
+        - {x: -33, y: -156}
+        - {x: 16, y: -156}
+        - {x: 35, y: -147}
+        - {x: 46, y: -35}
+        - {x: 46, y: 50}
+        - {x: 22, y: 103}
+    - name: the_Bob_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 704
+        width: 144
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 95}
+        - {x: 11, y: 92}
+        - {x: 12, y: 90}
+        - {x: 5, y: 94}
+        - {x: 19, y: 106}
+        - {x: 26, y: 115}
+        - {x: 10, y: 148}
+        - {x: -25, y: 148}
+        - {x: -39, y: 143}
+        - {x: -69, y: 51}
+        - {x: -69, y: -25}
+        - {x: -39, y: -156}
+        - {x: 20, y: -156}
+        - {x: 46, y: -25}
+        - {x: 46, y: 58}
+        - {x: 22, y: 103}
+    - name: the_Bob_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 704
+        width: 144
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 95}
+        - {x: 11, y: 92}
+        - {x: 7, y: 95}
+        - {x: 28, y: 115}
+        - {x: 11, y: 148}
+        - {x: -42, y: 148}
+        - {x: -66, y: 131}
+        - {x: -66, y: -39}
+        - {x: -57, y: -156}
+        - {x: 24, y: -156}
+        - {x: 71, y: -39}
+        - {x: 71, y: 34}
+        - {x: 22, y: 106}
+      - - {x: -57, y: 11}
+        - {x: -56, y: 8}
+        - {x: -53, y: 8}
+        - {x: -51, y: 10}
+        - {x: -52, y: 13}
+        - {x: -55, y: 13}
+    - name: the_Bob_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 704
+        width: 144
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 95}
+        - {x: 11, y: 92}
+        - {x: 7, y: 95}
+        - {x: 28, y: 115}
+        - {x: 11, y: 148}
+        - {x: -42, y: 148}
+        - {x: -66, y: 131}
+        - {x: -66, y: -38}
+        - {x: -57, y: -156}
+        - {x: 20, y: -156}
+        - {x: 64, y: 25}
+        - {x: 64, y: 50}
+        - {x: 20, y: 99}
+      - - {x: -57, y: 11}
+        - {x: -56, y: 8}
+        - {x: -53, y: 8}
+        - {x: -51, y: 10}
+        - {x: -52, y: 13}
+        - {x: -55, y: 13}
+      - - {x: 32, y: 15}
+        - {x: 32, y: 14}
+        - {x: 36, y: 11}
+        - {x: 38, y: 11}
+        - {x: 40, y: 13}
+        - {x: 38, y: 18}
+        - {x: 35, y: 18}
+      - - {x: 53, y: 20}
+        - {x: 50, y: 19}
+        - {x: 50, y: 14}
+        - {x: 52, y: 13}
+        - {x: 55, y: 13}
+        - {x: 56, y: 15}
+        - {x: 56, y: 18}
+        - {x: 55, y: 20}
+    - name: the_Bob_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 704
+        width: 144
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 99}
+        - {x: 9, y: 95}
+        - {x: 11, y: 92}
+        - {x: 7, y: 95}
+        - {x: 28, y: 115}
+        - {x: 11, y: 148}
+        - {x: -42, y: 148}
+        - {x: -66, y: 131}
+        - {x: -66, y: -38}
+        - {x: -57, y: -156}
+        - {x: 21, y: -156}
+        - {x: 63, y: 13}
+        - {x: 63, y: 47}
+      - - {x: 32, y: 15}
+        - {x: 32, y: 14}
+        - {x: 36, y: 11}
+        - {x: 38, y: 11}
+        - {x: 40, y: 13}
+        - {x: 38, y: 18}
+        - {x: 35, y: 18}
+      - - {x: 53, y: 20}
+        - {x: 50, y: 19}
+        - {x: 50, y: 14}
+        - {x: 52, y: 13}
+        - {x: 55, y: 13}
+        - {x: 56, y: 15}
+        - {x: 56, y: 18}
+        - {x: 55, y: 20}
+    - name: the_Bob_6
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 704
+        width: 144
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 95}
+        - {x: 11, y: 92}
+        - {x: 7, y: 95}
+        - {x: 28, y: 115}
+        - {x: 11, y: 148}
+        - {x: -42, y: 148}
+        - {x: -66, y: 131}
+        - {x: -66, y: -34}
+        - {x: -56, y: -156}
+        - {x: 16, y: -156}
+        - {x: 63, y: 26}
+        - {x: 63, y: 57}
+        - {x: 21, y: 103}
+      - - {x: 32, y: 15}
+        - {x: 32, y: 14}
+        - {x: 36, y: 11}
+        - {x: 38, y: 11}
+        - {x: 40, y: 13}
+        - {x: 38, y: 18}
+        - {x: 35, y: 18}
+      - - {x: 53, y: 20}
+        - {x: 50, y: 19}
+        - {x: 50, y: 14}
+        - {x: 52, y: 13}
+        - {x: 55, y: 13}
+        - {x: 56, y: 15}
+        - {x: 56, y: 18}
+        - {x: 55, y: 20}
+    - name: the_Bob_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 144
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 98}
+        - {x: 9, y: 95}
+        - {x: 11, y: 92}
+        - {x: 7, y: 95}
+        - {x: 28, y: 115}
+        - {x: 11, y: 148}
+        - {x: -42, y: 148}
+        - {x: -66, y: 131}
+        - {x: -66, y: -38}
+        - {x: -57, y: -156}
+        - {x: 21, y: -156}
+        - {x: 71, y: 19}
+        - {x: 71, y: 70}
+        - {x: 52, y: 89}
+      - - {x: 32, y: 15}
+        - {x: 32, y: 14}
+        - {x: 36, y: 11}
+        - {x: 38, y: 11}
+        - {x: 40, y: 13}
+        - {x: 38, y: 18}
+        - {x: 35, y: 18}
+      - - {x: 53, y: 20}
+        - {x: 50, y: 19}
+        - {x: 50, y: 14}
+        - {x: 52, y: 13}
+        - {x: 55, y: 13}
+        - {x: 56, y: 15}
+        - {x: 56, y: 18}
+        - {x: 55, y: 20}
+      - - {x: 50, y: 39}
+        - {x: 36, y: 33}
+        - {x: 36, y: 28}
+        - {x: 37, y: 23}
+        - {x: 37, y: 22}
+        - {x: 49, y: 22}
+        - {x: 63, y: 31}
+        - {x: 63, y: 38}
+        - {x: 62, y: 39}
+    - name: the_Bob_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 144
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 50}
+        - {x: 48, y: 48}
+        - {x: 52, y: 50}
+        - {x: 58, y: 51}
+        - {x: 64, y: 51}
+        - {x: 70, y: 57}
+        - {x: 71, y: 62}
+        - {x: 71, y: 71}
+        - {x: 70, y: 75}
+        - {x: 59, y: 88}
+        - {x: 18, y: 148}
+        - {x: -41, y: 148}
+        - {x: -66, y: 131}
+        - {x: -66, y: -39}
+        - {x: -57, y: -156}
+        - {x: 27, y: -156}
+        - {x: 66, y: 34}
+        - {x: 62, y: 47}
+        - {x: 56, y: 50}
+      - - {x: 32, y: 15}
+        - {x: 32, y: 14}
+        - {x: 36, y: 11}
+        - {x: 38, y: 11}
+        - {x: 40, y: 13}
+        - {x: 38, y: 18}
+        - {x: 35, y: 18}
+      - - {x: 53, y: 20}
+        - {x: 50, y: 19}
+        - {x: 50, y: 14}
+        - {x: 52, y: 13}
+        - {x: 55, y: 13}
+        - {x: 56, y: 15}
+        - {x: 56, y: 18}
+        - {x: 55, y: 20}
+      - - {x: 50, y: 39}
+        - {x: 36, y: 33}
+        - {x: 36, y: 28}
+        - {x: 37, y: 23}
+        - {x: 37, y: 22}
+        - {x: 49, y: 22}
+        - {x: 63, y: 31}
+        - {x: 63, y: 38}
+        - {x: 62, y: 39}
+    - name: the_Bob_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 144
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 98}
+        - {x: 9, y: 95}
+        - {x: 11, y: 92}
+        - {x: 7, y: 95}
+        - {x: 28, y: 115}
+        - {x: 11, y: 148}
+        - {x: -42, y: 148}
+        - {x: -66, y: 131}
+        - {x: -66, y: -38}
+        - {x: -57, y: -156}
+        - {x: 21, y: -156}
+        - {x: 71, y: 19}
+        - {x: 71, y: 70}
+        - {x: 52, y: 89}
+      - - {x: 32, y: 15}
+        - {x: 32, y: 14}
+        - {x: 36, y: 11}
+        - {x: 38, y: 11}
+        - {x: 40, y: 13}
+        - {x: 38, y: 18}
+        - {x: 35, y: 18}
+      - - {x: 53, y: 20}
+        - {x: 50, y: 19}
+        - {x: 50, y: 14}
+        - {x: 52, y: 13}
+        - {x: 55, y: 13}
+        - {x: 56, y: 15}
+        - {x: 56, y: 18}
+        - {x: 55, y: 20}
+      - - {x: 50, y: 39}
+        - {x: 36, y: 33}
+        - {x: 36, y: 28}
+        - {x: 37, y: 23}
+        - {x: 37, y: 22}
+        - {x: 49, y: 22}
+        - {x: 63, y: 31}
+        - {x: 63, y: 38}
+        - {x: 62, y: 39}
+    - name: the_Bob_10
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 144
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 95}
+        - {x: 11, y: 92}
+        - {x: 7, y: 95}
+        - {x: 28, y: 115}
+        - {x: 11, y: 148}
+        - {x: -42, y: 148}
+        - {x: -66, y: 131}
+        - {x: -66, y: -34}
+        - {x: -56, y: -156}
+        - {x: 16, y: -156}
+        - {x: 63, y: 26}
+        - {x: 63, y: 57}
+        - {x: 21, y: 103}
+      - - {x: 32, y: 15}
+        - {x: 32, y: 14}
+        - {x: 36, y: 11}
+        - {x: 38, y: 11}
+        - {x: 40, y: 13}
+        - {x: 38, y: 18}
+        - {x: 35, y: 18}
+      - - {x: 53, y: 20}
+        - {x: 50, y: 19}
+        - {x: 50, y: 14}
+        - {x: 52, y: 13}
+        - {x: 55, y: 13}
+        - {x: 56, y: 15}
+        - {x: 56, y: 18}
+        - {x: 55, y: 20}
+    - name: the_Bob_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 144
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 99}
+        - {x: 9, y: 95}
+        - {x: 11, y: 92}
+        - {x: 7, y: 95}
+        - {x: 28, y: 115}
+        - {x: 11, y: 148}
+        - {x: -42, y: 148}
+        - {x: -66, y: 131}
+        - {x: -66, y: -38}
+        - {x: -57, y: -156}
+        - {x: 21, y: -156}
+        - {x: 63, y: 13}
+        - {x: 63, y: 47}
+      - - {x: 32, y: 15}
+        - {x: 32, y: 14}
+        - {x: 36, y: 11}
+        - {x: 38, y: 11}
+        - {x: 40, y: 13}
+        - {x: 38, y: 18}
+        - {x: 35, y: 18}
+      - - {x: 53, y: 20}
+        - {x: 50, y: 19}
+        - {x: 50, y: 14}
+        - {x: 52, y: 13}
+        - {x: 55, y: 13}
+        - {x: 56, y: 15}
+        - {x: 56, y: 18}
+        - {x: 55, y: 20}
+    - name: the_Bob_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 144
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 95}
+        - {x: 11, y: 92}
+        - {x: 7, y: 95}
+        - {x: 28, y: 115}
+        - {x: 11, y: 148}
+        - {x: -42, y: 148}
+        - {x: -66, y: 131}
+        - {x: -66, y: -38}
+        - {x: -57, y: -156}
+        - {x: 20, y: -156}
+        - {x: 64, y: 25}
+        - {x: 64, y: 50}
+        - {x: 20, y: 99}
+      - - {x: -57, y: 11}
+        - {x: -56, y: 8}
+        - {x: -53, y: 8}
+        - {x: -51, y: 10}
+        - {x: -52, y: 13}
+        - {x: -55, y: 13}
+      - - {x: 32, y: 15}
+        - {x: 32, y: 14}
+        - {x: 36, y: 11}
+        - {x: 38, y: 11}
+        - {x: 40, y: 13}
+        - {x: 38, y: 18}
+        - {x: 35, y: 18}
+      - - {x: 53, y: 20}
+        - {x: 50, y: 19}
+        - {x: 50, y: 14}
+        - {x: 52, y: 13}
+        - {x: 55, y: 13}
+        - {x: 56, y: 15}
+        - {x: 56, y: 18}
+        - {x: 55, y: 20}
+    - name: the_Bob_13
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 384
+        width: 144
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 95}
+        - {x: 11, y: 92}
+        - {x: 7, y: 95}
+        - {x: 28, y: 115}
+        - {x: 11, y: 148}
+        - {x: -42, y: 148}
+        - {x: -66, y: 131}
+        - {x: -66, y: -39}
+        - {x: -57, y: -156}
+        - {x: 24, y: -156}
+        - {x: 71, y: -39}
+        - {x: 71, y: 34}
+        - {x: 22, y: 106}
+      - - {x: -57, y: 11}
+        - {x: -56, y: 8}
+        - {x: -53, y: 8}
+        - {x: -51, y: 10}
+        - {x: -52, y: 13}
+        - {x: -55, y: 13}
+    - name: the_Bob_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 144
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: 40}
+        - {x: 59, y: 40}
+        - {x: 62, y: 47}
+        - {x: 10, y: 148}
+        - {x: -31, y: 148}
+        - {x: -66, y: 101}
+        - {x: -66, y: -13}
+        - {x: -50, y: -156}
+        - {x: 17, y: -156}
+        - {x: 63, y: 1}
+        - {x: 63, y: 39}
+        - {x: 62, y: 40}
+      - - {x: 53, y: 20}
+        - {x: 50, y: 19}
+        - {x: 50, y: 14}
+        - {x: 52, y: 13}
+        - {x: 55, y: 13}
+        - {x: 56, y: 15}
+        - {x: 56, y: 18}
+        - {x: 55, y: 20}
+    - name: the_Bob_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 144
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 148}
+        - {x: -28, y: 148}
+        - {x: -53, y: 113}
+        - {x: -66, y: 54}
+        - {x: -66, y: 2}
+        - {x: -38, y: -155}
+        - {x: -34, y: -156}
+        - {x: 17, y: -156}
+        - {x: 48, y: -51}
+        - {x: 48, y: 68}
+        - {x: 41, y: 121}
+      - - {x: 53, y: 20}
+        - {x: 50, y: 19}
+        - {x: 50, y: 14}
+        - {x: 52, y: 13}
+        - {x: 55, y: 13}
+        - {x: 56, y: 15}
+        - {x: 56, y: 18}
+        - {x: 55, y: 20}
+      - - {x: 59, y: 39}
+        - {x: 57, y: 37}
+        - {x: 57, y: 35}
+        - {x: 59, y: 33}
+        - {x: 61, y: 33}
+        - {x: 63, y: 35}
+        - {x: 63, y: 37}
+        - {x: 61, y: 39}
+    - name: the_Bob_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 144
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 148}
+        - {x: -56, y: 113}
+        - {x: -66, y: 59}
+        - {x: -66, y: 2}
+        - {x: -38, y: -155}
+        - {x: -35, y: -156}
+        - {x: 21, y: -156}
+        - {x: 57, y: -53}
+        - {x: 57, y: 31}
+        - {x: 26, y: 148}
+      - - {x: 53, y: 20}
+        - {x: 50, y: 19}
+        - {x: 50, y: 14}
+        - {x: 52, y: 13}
+        - {x: 55, y: 13}
+        - {x: 56, y: 15}
+        - {x: 56, y: 18}
+        - {x: 55, y: 20}
+      - - {x: 59, y: 39}
+        - {x: 57, y: 37}
+        - {x: 57, y: 35}
+        - {x: 59, y: 33}
+        - {x: 61, y: 33}
+        - {x: 63, y: 35}
+        - {x: 63, y: 37}
+        - {x: 61, y: 39}
+    - name: the_Bob_17
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 64
+        width: 144
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 147}
+        - {x: -48, y: 116}
+        - {x: -48, y: -51}
+        - {x: -32, y: -151}
+        - {x: -26, y: -158}
+        - {x: 24, y: -158}
+        - {x: 53, y: -67}
+        - {x: 53, y: 97}
+        - {x: 30, y: 147}
+    - name: the_Bob_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 144
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 150}
+        - {x: -46, y: 143}
+        - {x: -71, y: 92}
+        - {x: -71, y: -54}
+        - {x: -31, y: -160}
+        - {x: 49, y: -160}
+        - {x: 60, y: -51}
+        - {x: 60, y: 45}
+        - {x: 22, y: 150}
+    - name: the_Bob_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 144
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 4}
+        - {x: 20, y: 13}
+        - {x: 25, y: 139}
+        - {x: 14, y: 150}
+        - {x: -23, y: 150}
+        - {x: -46, y: 144}
+        - {x: -71, y: 57}
+        - {x: -71, y: -4}
+        - {x: -70, y: -9}
+        - {x: -32, y: -155}
+        - {x: -27, y: -160}
+        - {x: 47, y: -160}
+        - {x: 47, y: -8}
+        - {x: 34, y: 51}
+        - {x: 20, y: 5}
+        - {x: 18, y: 3}
+      - - {x: 33, y: -13}
+        - {x: 34, y: -16}
+        - {x: 37, y: -16}
+        - {x: 39, y: -14}
+        - {x: 38, y: -11}
+        - {x: 35, y: -11}
+    - name: the_Bob_20
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 64
+        width: 144
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 150}
+        - {x: -21, y: 150}
+        - {x: -42, y: 140}
+        - {x: -71, y: 62}
+        - {x: -71, y: -2}
+        - {x: -68, y: -9}
+        - {x: -34, y: -148}
+        - {x: -31, y: -155}
+        - {x: -28, y: -159}
+        - {x: -26, y: -160}
+        - {x: 21, y: -160}
+        - {x: 32, y: -156}
+        - {x: 40, y: -125}
+        - {x: 40, y: 105}
+        - {x: 38, y: 110}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
